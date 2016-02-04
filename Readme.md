@@ -17,7 +17,7 @@ Convert HSL colors to RGB
 ```js
 var hslToRgb = require('@f/hsl-to-rgb')
 
-hslToRgb(214, 1, .50) // [0, 110, 255]
+hslToRgb(214, 1, 0.50) // [0, 110, 255]
 ```
 
 ## API
