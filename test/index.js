@@ -10,6 +10,6 @@ var test = require('tape')
  */
 
 test('should work', function (t) {
-  t.deepEqual(hslToRgb(214, 1, .5), [0, 110, 255])
+  t.deepEqual(hslToRgb(214, 1, 0.5), [0, 110, 255])
   t.end()
 })
