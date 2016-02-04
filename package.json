@@ -2,7 +2,7 @@
   "name": "@f/hsl-to-rgb",
   "description": "Convert HSL colors to RGB",
   "repository": "git://github.com/micro-js/hsl-to-rgb.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
